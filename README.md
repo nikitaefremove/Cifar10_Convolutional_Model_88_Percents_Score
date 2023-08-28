@@ -1,4 +1,4 @@
-# Model Evaluation on CIFAR_10
+# Convolutional model with 0.8886 score on CIFAR_10 dataset
 
 ___
 
