@@ -1,4 +1,4 @@
-# Evaluation model on CIFAR_10
+# Model Evaluation on CIFAR_10
 
 ___
 
