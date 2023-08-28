@@ -1,5 +1,4 @@
-# Convolutional model with 0.8886 score 
-# CIFAR_10 dataset
+# Convolutional model with 0.8886 score on CIFAR_10 dataset
 
 ___
 
